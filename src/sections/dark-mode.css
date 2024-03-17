@@ -1,0 +1,6 @@
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #000; /* Dark background color */
+  color: #fff; /* Light text color */
+  transition: background-color 0.5s ease, color 0.5s ease; /* Smooth transition */
+}
